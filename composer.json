@@ -1,0 +1,27 @@
+{
+    "name": "czh/think-model-handle",
+    "description": "tp5.1 模型辅助操作类",
+    "keywords": [
+        "model handle",
+        "thinkphp"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://gitee.com/1575810034/think-model-handle/issues",
+        "source": "hhttps://gitee.com/1575810034/think-model-handle"
+    },
+    "authors": [
+        {
+            "name": "chenzh",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": "^7.0 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "modelHandle\\": "src/"
+        }
+    }
+}

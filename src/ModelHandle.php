@@ -1,7 +1,7 @@
 <?php
 
 
-namespace czh\modelHandle;
+namespace modelHandle;
 
 
 use think\Model;
